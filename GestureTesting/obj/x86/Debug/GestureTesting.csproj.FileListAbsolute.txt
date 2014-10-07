@@ -1,0 +1,76 @@
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\bin\Debug\GestureTesting.exe
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\bin\Debug\GestureTesting.pdb
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\obj\x86\Debug\MainWindow.baml
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\obj\x86\Debug\MainWindow.g.cs
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\obj\x86\Debug\App.g.cs
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting_MarkupCompile.cache
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.g.resources
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.Properties.Resources.resources
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.csproj.GenerateResource.Cache
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.exe
+C:\Users\avenda\documents\visual studio 2010\Projects\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.pdb
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.exe
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.pdb
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\GestureTesting.exe
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\GestureTesting.pdb
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.csprojResolveAssemblyReference.cache
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\MainWindow.baml
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\MainWindow.g.cs
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\App.g.cs
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting_MarkupCompile.cache
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.g.resources
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.Properties.Resources.resources
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.csproj.GenerateResource.Cache
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.exe
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.pdb
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\GestureTesting.exe
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\GestureTesting.pdb
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\MainWindow.baml
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\App.g.cs
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting_MarkupCompile.cache
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.g.resources
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.Properties.Resources.resources
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\GestureTesting.exe.config
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Clinica\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\GestureTesting.exe.config
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\avenda\Desktop\Dropbox\Proyectos VS 2010\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\GestureTesting.exe.config
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.exe
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.pdb
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\GestureTesting.exe
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\GestureTesting.pdb
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.csprojResolveAssemblyReference.cache
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\MainWindow.baml
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\MainWindow.g.cs
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\App.g.cs
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting_MarkupCompile.cache
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.g.resources
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.Properties.Resources.resources
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.csproj.GenerateResource.Cache
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Dicom.dll
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Dicom.Native.dll
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\NLog.dll
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Dicom.pdb
+C:\Users\avenda\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\Dicom.xml
+C:\Users\Clinica\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\bin\Debug\GestureTesting.exe.config
+C:\Users\Clinica\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.exe
+C:\Users\Clinica\Desktop\Dropbox\Proyectos .NET\Clinica\Kinect\GestureTesting\GestureTesting\obj\x86\Debug\GestureTesting.pdb
